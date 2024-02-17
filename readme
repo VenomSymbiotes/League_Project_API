@@ -1,0 +1,29 @@
+#_League Full API_
+This Api is meant to add all the champions into a database so i can find all the data i would need from ablity descriptions to recommendend items to bulid for each champ INCLUDING at least one quote for each champion and the summary of their lore
+===============================================================
+
+## **League App Picture**
+
+===============================================================
+
+## _Installation and Setup_
+
+- Fork and clone this repository into your IDE.
+- Node.js installed with npm.
+- Install MongoDB, Mongoose, and Express.
+- Install Nodemon
+- # and use the Command "npm run dev" in your terminal of your code editor
+
+## Langauges and WhiteBoarding
+
+•HTML,CSS,JavaScript,Axios, (Bootstrap will be attempted)
+•Node.js,Express,Mongoose,MongoDB
+•Figma and FigJam
+===============================================================
+Goals
+• Champions assigned to each region -MongoDB
+• Each champion having their Ablities, Lore, a Image , and their Role and recommended bulid from a list of items -MongoDB
+• A DB of the items champions can bulid overall and pull from the items to go for the champions -MongoDB
+• Make a template for a champion page -HTML/CSS
+• (Optional) Animated Background
+•Being able to click on a champion image and populate the data
