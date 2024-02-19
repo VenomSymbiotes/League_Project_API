@@ -9,7 +9,7 @@ const Champion = new Schema(
     ability1: { type: String, required: true },
     ability2: { type: String, required: true },
     ability3: { type: String, required: true },
-    ultimateAbilty: { type: String, required: true },
+    ultimateAbility: { type: String, required: true },
     lore: { type: String, required: true },
     usualRole: { type: String, required: true },
     regionId: { type: Schema.Types.ObjectId, required: true },

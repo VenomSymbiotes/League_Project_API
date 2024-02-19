@@ -5,6 +5,7 @@ const Item = new Schema(
   {
     name: { type: String, required: true },
     image: { type: String, required: true },
+    goldCost: { type: Number, required: false },
     ad: { type: Number, required: false },
     ap: { type: Number, required: false },
     critChance: { type: Number, required: false },
@@ -25,7 +26,7 @@ const Item = new Schema(
     tenacity: { type: Number, required: false },
     healAndShieldPower: { type: Number, required: false },
     goldGeneration: { type: String, required: false },
-    itemAbility: { type: Number, required: false },
+    itemAbility: { type: String, required: false },
   },
   { timestamps: true }
 );
