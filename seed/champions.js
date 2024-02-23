@@ -21,6 +21,8 @@ const main = async () => {
     {
       name: "Aatrox",
       champTitle: "the Darkin Blade",
+      image:
+        "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Aatrox_OriginalSquare.png/revision/latest/smart/width/250/height/250?cb=20180612203801",
       passive: "Deathbringer Stance",
       ability1: "The Darkin Blade",
       ability2: "Infernal Chains",
@@ -41,6 +43,8 @@ const main = async () => {
     {
       name: "Ahri",
       champTitle: "the Nine-Tailed Fox",
+      image:
+        "https://preview.redd.it/66btyl8ubt411.jpg?auto=webp&s=28bfa4b0556ef91a26671b2f17477df704762916",
       passive: "Essence Theft",
       ability1: "Orb of Deception",
       ability2: "Fox-Fire",
@@ -61,6 +65,8 @@ const main = async () => {
     {
       name: "Akali",
       champTitle: "the Rogue Assassin",
+      image:
+        "https://liquipedia.net/commons/images/thumb/2/25/WR_Champion_icon_Akali.png/180px-WR_Champion_icon_Akali.png",
       passive: "Assassin's Mark",
       ability1: "Five Point Strike",
       ability2: "Twilight Shroud",
@@ -81,6 +87,7 @@ const main = async () => {
     {
       name: "Akshan",
       champTitle: "the Rogue Sentinel",
+      image: "https://www.mobafire.com/images/champion/square/akshan.png",
       passive: "Dirty Fighting",
       ability1: "Avengerang",
       ability2: "Dead Slinger",
@@ -99,6 +106,8 @@ const main = async () => {
     {
       name: "Alistar",
       champTitle: "the Minotaur",
+      image:
+        "https://tiermaker.com/images/template_images/2022/1018049/league-of-legends-champion-illustration-icons-1018049/alistar.png",
       passive: "Triumphant Roar",
       ability1: "Pulverize",
       ability2: "Headbutt",
@@ -119,6 +128,7 @@ const main = async () => {
     {
       name: "Amumu",
       champTitle: "the Sad Mummy",
+      image: "https://www.mobafire.com/images/champion/square/amumu.png",
       passive: "Cursed Touch",
       ability1: "Bandage Toss",
       ability2: "Despair",
@@ -139,6 +149,7 @@ const main = async () => {
     {
       name: "Anivia",
       champTitle: "the Cryophoenix",
+      image: "https://i.redd.it/mkk6w06a0cib1.jpg",
       passive: "Rebirth",
       ability1: "Flash Frost",
       ability2: "Crystallize",
@@ -159,6 +170,7 @@ const main = async () => {
     {
       name: "Annie",
       champTitle: "the Dark Child",
+      image: "https://i.redd.it/wfb5c7a42cib1.jpg",
       passive: "Pyromania",
       ability1: "Disintegrate",
       ability2: "Incinerate",
@@ -179,6 +191,7 @@ const main = async () => {
     {
       name: "Aphelios",
       champTitle: "the Weapon of the Faithful",
+      image: "https://pbs.twimg.com/media/F4KGUYdXIAA00QX.jpg",
       passive: "Moonlight Vigil",
       ability1: "Calibrum, the Sniper Rifle",
       ability2: "Severum, the Scythe Pistol",
@@ -199,6 +212,8 @@ const main = async () => {
     {
       name: "Ashe",
       champTitle: "the Frost Archer",
+      image:
+        "https://prod.api.assets.riotgames.com/public/v1/asset/lol/14.3.1/CHAMPION/22/ICON",
       passive: "Frost Shot",
       ability1: "Ranger's Focus",
       ability2: "Volley",
@@ -219,6 +234,8 @@ const main = async () => {
     {
       name: "Aurelion Sol",
       champTitle: "the Star Forger",
+      image:
+        "https://preview.redd.it/new-targon-aurelion-sol-icon-v0-b2ifpmk8rcib1.jpg?auto=webp&s=069b4672ec8d2c9ee5db0fc94cf9ef49b139824a",
       passive: "Center of the Universe",
       ability1: "Starsurge",
       ability2: "Celestial Expansion",
@@ -238,6 +255,8 @@ const main = async () => {
     {
       name: "Azir",
       champTitle: "the Emperor of the Sands",
+      image:
+        "https://prod.api.assets.riotgames.com/public/v1/asset/lol/14.3.1/CHAMPION/268/ICON",
       passive: "Shurima's Legacy",
       ability1: "Conquering Sands",
       ability2: "Arise!",
@@ -258,6 +277,7 @@ const main = async () => {
     {
       name: "Bard",
       champTitle: "the Wandering Caretaker",
+      image: "https://i.redd.it/8ku1x4g7ccib1.jpg",
       passive: "Traveler's Call",
       ability1: "Cosmic Binding",
       ability2: "Caretaker's Shrine",
@@ -277,6 +297,8 @@ const main = async () => {
     {
       name: "Bel'Veth",
       champTitle: "The Empress of the Void",
+      image:
+        "https://prod.api.assets.riotgames.com/public/v1/asset/lol/14.3.1/CHAMPION/200/ICON",
       passive: "Death in Lavender",
       ability1: "Void Surge",
       ability2: "Above and Below",
@@ -291,6 +313,8 @@ const main = async () => {
     {
       name: "Blitzcrank",
       champTitle: "the Great Steam Golem",
+      image:
+        "https://preview.redd.it/zaun-illustration-icons-v0-rfx29yol7dib1.jpg?width=300&format=pjpg&auto=webp&s=89e6863905d23910806f9806a58f5e28aa49bd46",
       passive: "Mana Barrier",
       ability1: "Rocket Grab",
       ability2: "Overdrive",
@@ -311,6 +335,8 @@ const main = async () => {
     {
       name: "Brand",
       champTitle: "the Burning Vengeance",
+      image:
+        "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Brand_Illustration_profileicon.jpg/revision/latest/scale-to-width-down/250?cb=20230817141432",
       passive: "Blaze",
       ability1: "Sear",
       ability2: "Pillar of Flame",
@@ -331,6 +357,7 @@ const main = async () => {
     {
       name: "Braum",
       champTitle: "the Heart of the Freljord",
+      image: "https://pbs.twimg.com/media/F3mE24uWAAA3XQN.jpg",
       passive: "Concussive Blows",
       ability1: "Winter's Bite",
       ability2: "Stand Behind Me",
@@ -351,6 +378,8 @@ const main = async () => {
     {
       name: "Briar",
       champTitle: "The Restrained Hunger",
+      image:
+        "https://prod.api.assets.riotgames.com/public/v1/asset/lol/14.3.1/CHAMPION/233/ICON",
       passive: "Crimson Curse",
       ability1: "Head rush",
       ability2: "Blood Frenzy",
@@ -365,6 +394,8 @@ const main = async () => {
     {
       name: "Caitlyn",
       champTitle: "the Sheriff of Piltover",
+      image:
+        "https://prod.api.assets.riotgames.com/public/v1/asset/lol/14.3.1/CHAMPION_SKIN/51028/ICON",
       passive: "Headshot",
       ability1: "Piltover Peacemaker",
       ability2: "Yordle Snap Trap",
@@ -385,6 +416,8 @@ const main = async () => {
     {
       name: "Camille",
       champTitle: "the Steel Shadow",
+      image:
+        "https://prod.api.assets.riotgames.com/public/v1/asset/lol/14.3.1/CHAMPION/164/ICON",
       passive: "Adaptive Defenses",
       ability1: "Precision Protocol",
       ability2: "Tactical Sweep",
@@ -405,6 +438,8 @@ const main = async () => {
     {
       name: "Cassiopeia",
       champTitle: "the Serpent's Embrace",
+      image:
+        "https://prod.api.assets.riotgames.com/public/v1/asset/lol/14.3.1/CHAMPION/69/ICON",
       passive: "Aspect of the Serpent",
       ability1: "Noxious Blast",
       ability2: "Miasma",
@@ -426,6 +461,8 @@ const main = async () => {
     {
       name: "Cho'Gath",
       champTitle: "the Terror of the Void",
+      image:
+        "https://preview.redd.it/chogath-icon-probably-also-blue-essence-emporium-v0-xalbocxzobib1.jpg?auto=webp&s=0bc74768f7a2b9a14bf7cb0e97d0afcc5770a26f",
       passive: "Carnivore",
       ability1: "Rupture",
       ability2: "Feral Scream",
@@ -446,6 +483,8 @@ const main = async () => {
     {
       name: "Corki",
       champTitle: "the Daring Bombardier",
+      image:
+        "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Corki_Illustration_profileicon.jpg/revision/latest/scale-to-width-down/250?cb=20230817145625",
       passive: "Hextech Munitions",
       ability1: "Phosphorus Bomb",
       ability2: "Valkyrie",
@@ -466,6 +505,8 @@ const main = async () => {
     {
       name: "Darius",
       champTitle: "the Hand of Noxus",
+      image:
+        "https://cdn.mobalytics.gg/assets/lol/images/dd/summoner-icons/6014.png?1",
       passive: "Hemorrhage",
       ability1: "Decimate",
       ability2: "Crippling Strike",
@@ -486,6 +527,8 @@ const main = async () => {
     {
       name: "Diana",
       champTitle: "Scorn of the Moon",
+      image:
+        "https://64.media.tumblr.com/b927ccb07068203dd025035ab50ccd53/10a898443de09cf7-b6/s400x600/21f2fb1201f64a4a65d8815dad03d4ed1807ed98.png",
       passive: "Moonsilver Blade",
       ability1: "Crescent Strike",
       ability2: "Pale Cascade",
@@ -506,6 +549,8 @@ const main = async () => {
     {
       name: "Dr.Mundo",
       champTitle: "The Madman of Zaun",
+      image:
+        "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt7593c23f8653be4e/609c79b1ea72f24924be13a0/Mundo_author.jpg",
       passive: "Goes Where He Pleases",
       ability1: "Infected Bonesaw",
       ability2: "Heart Zapper",
@@ -528,6 +573,7 @@ const main = async () => {
     {
       name: "Draven",
       champTitle: "the Glorious Executioner",
+      image: "https://i.redd.it/amg97j3jgcib1.jpg",
       passive: "League of Draven",
       ability1: "Spinning Axe",
       ability2: "Blood Rush",
@@ -548,6 +594,8 @@ const main = async () => {
     {
       name: "Ekko",
       champTitle: "the Boy Who Shattered Time",
+      image:
+        "https://prod.api.assets.riotgames.com/public/v1/asset/lol/14.3.1/CHAMPION/245/ICON",
       passive: "Z-Drive Resonance",
       ability1: "Timewinder",
       ability2: "Parallel Convergence",
@@ -568,6 +616,7 @@ const main = async () => {
     {
       name: "Elise",
       champTitle: "the Spider Queen",
+      image: "https://i.redd.it/9vmiw9k2beib1.jpg",
       passive: "Spider Swarm",
       ability1: "Neurotoxin",
       ability2: "Volatile Spiderling",
@@ -587,6 +636,8 @@ const main = async () => {
     {
       name: "Evelynn",
       champTitle: "Agony's Embrace",
+      image:
+        "https://prod.api.assets.riotgames.com/public/v1/asset/lol/14.3.1/CHAMPION/28/ICON",
       passive: "Demon Shade",
       ability1: "Hate Spike",
       ability2: "Allure",
@@ -607,6 +658,8 @@ const main = async () => {
     {
       name: "Ezreal",
       champTitle: "the Prodigal Explorer",
+      image:
+        "https://prod.api.assets.riotgames.com/public/v1/asset/lol/14.3.1/CHAMPION/81/ICON",
       passive: "Rising Spell Force",
       ability1: "Mystic Shot",
       ability2: "Essence Flux",
@@ -627,6 +680,8 @@ const main = async () => {
     {
       name: "Fiddlesticks",
       champTitle: "the Ancient Fear",
+      image:
+        "https://prod.api.assets.riotgames.com/public/v1/asset/lol/14.3.1/CHAMPION/9/ICON",
       passive: "A Harmless Scarecrow",
       ability1: "Terrify",
       ability2: "Reap",
@@ -648,6 +703,8 @@ const main = async () => {
     {
       name: "Fiora",
       champTitle: "the Grand Duelist",
+      image:
+        "https://64.media.tumblr.com/2f0d5b21f16f713e6d404daa1fe28b7f/a740c4da42c0d005-c4/s400x600/7a8e6f433619ed533c7b2b4addfa3555b28a0d3d.png",
       passive: "Duelist's Dance",
       ability1: "Lunge",
       ability2: "Riposte",
@@ -668,6 +725,7 @@ const main = async () => {
     {
       name: "Gangplank",
       champTitle: "the Saltwater Scourge",
+      image: "https://i.redd.it/laqc2sl3vbib1.jpg",
       passive: "Trial by Fire",
       ability1: "Parrrley",
       ability2: "Remove Scurvy",
@@ -688,6 +746,8 @@ const main = async () => {
     {
       name: "Malphite",
       champTitle: "Shard of the Monolith",
+      image:
+        "https://tiermaker.com/images/template_images/2022/1018049/league-of-legends-champion-illustration-icons-1018049/malphite.png",
       passive: "Granite Shield",
       ability1: "Seismic Shard",
       ability2: "Thunderclap",

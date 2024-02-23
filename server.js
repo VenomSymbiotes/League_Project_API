@@ -2,6 +2,7 @@ const express = require("express");
 const logger = require("morgan");
 const bodyParser = require("body-parser");
 const db = require("./db");
+const cors = require("cors");
 const PORT = process.env.PORT || 3001;
 const championController = require("./controllers/championController");
 const itemController = require("./controllers/itemController");
@@ -11,6 +12,7 @@ const app = express();
 
 app.use(logger("dev"));
 app.use(bodyParser.json());
+app.use(cors());
 
 app.listen(PORT, () => console.log(`Listening on port: ${PORT}`));
 
@@ -21,7 +23,7 @@ app.get("/", (req, res) => {
 app.get("/champions", championController.getAllChampions);
 app.get("/champions/:id", championController.getChampionById);
 app.post("/champions", championController.createChampion);
-app.put("/champions/:id", championController.updateChampion);
+app.patch("/champions/:id", championController.updateChampion);
 app.delete("/champions/:id", championController.deleteChampion);
 
 app.get("/items", itemController.getAllItems);

@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  background: url("https://media.mmo-champion.com/images/news/2013/may/news_background_s2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 100px;
+  background: rgb(103, 128, 197);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+
+.logo {
+  font-size: 26px;
+  color: #ffef0c;
+  text-decoration: none;
+  font-weight: 200;
+}
+
+.navbar a {
+  position: relative;
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-weight: 700;
+  margin-left: 100px;
+}
+
+h2,
+h3,
+p {
+  text-align: center;
+  position: relative;
+  color: white;
+  margin: auto;
+  text-align: center;
+  padding-top: 10px;
+}
+
+img {
+  width: 350px;
+  height: 350px;
+}

@@ -5,6 +5,7 @@ const Champion = new Schema(
   {
     name: { type: String, required: true },
     champTitle: { type: String, required: true },
+    image: { type: String, required: true },
     passive: { type: String, required: true },
     ability1: { type: String, required: true },
     ability2: { type: String, required: true },
