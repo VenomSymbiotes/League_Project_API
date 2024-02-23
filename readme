@@ -12,7 +12,9 @@ This Api is meant to add all the champions into a database so i can find all the
 - Node.js installed with npm.
 - Install MongoDB, Mongoose, and Express.
 - Install Nodemon
+  -make sure to seed the data
 - # and use the Command "npm run dev" in your terminal of your code editor
+  ![alt text](image.png)
 
 ## Langauges and WhiteBoarding
 
@@ -21,9 +23,15 @@ This Api is meant to add all the champions into a database so i can find all the
 •Figma and FigJam
 ===============================================================
 Goals
-• Champions assigned to each region -MongoDB
-• Each champion having their Ablities, Lore, a Image , and their Role and recommended bulid from a list of items -MongoDB
-• A DB of the items champions can bulid overall and pull from the items to go for the champions -MongoDB
-• Make a template for a champion page -HTML/CSS
-• (Optional) Animated Background
-•Being able to click on a champion image and populate the data
+• Champions assigned to each region -MongoDB √
+• Each champion having their Ablities, Lore, a Image , and their Role and recommended bulid from a list of items -MongoDB √
+• A DB of the items champions can bulid overall and pull from the items to go for the champions -MongoDB √
+• Make a template for a champion page -HTML/CSS x will work on further
+• (Optional) Animated Background -CSS
+•Being able to click on a champion image and populate the data -JS/HTML
+2 interactive functions √
+================================================================
+
+## Biggest Challenges
+
+JS/HTML figuring out divs and how to manifest the data in from my API, I still want to learn how to use the same css style sheet for different HTML files
